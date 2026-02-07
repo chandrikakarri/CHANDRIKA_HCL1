@@ -51,6 +51,13 @@
     left: 4cm;
     right: 4cm;
     height: 2cm;
+    
+    align-items: center;
+    justify-content: space-between;
+    padding: 15 px 40 px;
+
+    
+    color: black;
 }
 
 .n1
@@ -78,5 +85,6 @@
     list-style:none;
    
 }
+
 
 

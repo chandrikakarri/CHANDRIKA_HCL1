@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.d1
+{
+    height: auto;
+}
+.img1
+{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.t1
+{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 12%;
+    color:white;
+    top: 22%;
+    
+}
+.t2
+{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 12%;
+    color:white;
+    top: 29%;
+    
+}
+.t3
+{
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 12%;
+    color:white;
+    top: 36%;
+    font-weight: 100;
+    
+}
+.nav
+{   
+    display: flex;
+    gap: 10px;
+    position: absolute;
+    background-color:rgb(235, 221, 221);
+    border-radius: 5px;
+    top: 1cm;
+    left: 4cm;
+    right: 4cm;
+    height: 2cm;
+}
+
+.n1
+{   display: flex;
+    gap: 10px;
+    margin-left: 5px;
+    color: rgb(27, 126, 224);
+   margin-top: 15px;
+}
+
+.n2
+{
+    display:flex;
+    gap: 10px;
+    margin-left: 55px;
+    color: rgb(27, 126, 224);
+   margin-top: 15px;
+   width: 2cm;
+}
+.n3
+{
+   display: flex;
+   gap: 10px;
+    color: black;
+   
+}
+
